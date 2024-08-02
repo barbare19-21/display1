@@ -1,0 +1,31 @@
+body{
+    background-color: orange;
+}
+.div1{
+    width: 365px;
+    height: 365px;
+    background-color: #297E40;
+    border-radius: 12px;
+    display: block;
+    margin: 16px;
+}
+.div2{
+    width: 365px;
+    height: 365px;
+    background-color: #8E2877;
+    border-radius: 90px;
+    display: block;   
+    margin: 16px;
+}
+.div3{
+    width: 365px;
+    height: 365px;
+    background-color: #361BA4;
+    border-radius: 20px;
+    display: block;
+    margin: 16px;
+}
+tr{
+    width: 400px;
+    height: 400px;
+}
