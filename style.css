@@ -6,7 +6,7 @@ body{
     height: 365px;
     background-color: #297E40;
     border-radius: 12px;
-    display: block;
+    display: inline-block;
     margin: 16px;
 }
 .div2{
@@ -14,7 +14,7 @@ body{
     height: 365px;
     background-color: #8E2877;
     border-radius: 90px;
-    display: block;   
+    display: inline-block;
     margin: 16px;
 }
 .div3{
@@ -22,7 +22,7 @@ body{
     height: 365px;
     background-color: #361BA4;
     border-radius: 20px;
-    display: block;
+    display: inline-block;
     margin: 16px;
 }
 tr{
